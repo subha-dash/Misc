@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tcsemployee">
+    <output-path>$PROJECT_DIR$/out/artifacts/tcsemployee</output-path>
+    <root id="archive" name="tcsemployee.jar" />
+  </artifact>
+</component>

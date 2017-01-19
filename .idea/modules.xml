@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GSEmployeeDev/GSEmployeeDev.iml" filepath="$PROJECT_DIR$/GSEmployeeDev/GSEmployeeDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Misc.iml" filepath="$PROJECT_DIR$/Misc.iml" />
+    </modules>
+  </component>
+</project>
